@@ -126,13 +126,14 @@
 
 		/*bannner部分*/
 		.banner{
-			height: 400px;			
+			height: 400px;		
+			width: 1200px;
+			margin: 0 auto;
 			background: url(images/bg.jpg) center center no-repeat;
 		}
 		.banner .banner-in{
-			width: 1200px;
 			height: 400px;
-			margin: 0 auto;			
+			width:100%;			
 			background-size: cover;
 			position: relative;
 			
