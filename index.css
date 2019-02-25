@@ -126,13 +126,14 @@
 
 		/*bannner部分*/
 		.banner{
-			height: 400px;			
+			height: 400px;		
+			width: 1200px;
+			margin: 0 auto;
 			background: url(images/bg.jpg) center center no-repeat;
 		}
 		.banner .banner-in{
-			width: 1200px;
 			height: 400px;
-			margin: 0 auto;			
+			width:100%;			
 			background-size: cover;
 			position: relative;
 			
@@ -275,14 +276,15 @@
 		footer{
 			height: 270px;
 			background-color: #fff;
+			width: 1349px;
 			margin: 100px auto;
 			overflow: hidden;			
 		}
 		footer .content{
 			height: 230px;
-			width: 1200px;
-			margin: 0 auto;			
-			margin-top: 40px;
+			width:100%;
+			margin: 40px 100px;			
+		
 			overflow:hidden;
 
 		}

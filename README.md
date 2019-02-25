@@ -1,2 +1,2 @@
 # GitHubofbird.github.io
-github个人博客
+个人博客
